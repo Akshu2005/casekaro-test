@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gocomet.assignment.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.30 s -- in com.gocomet.assignment.TestRunner

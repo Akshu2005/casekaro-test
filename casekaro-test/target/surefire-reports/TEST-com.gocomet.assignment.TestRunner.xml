@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.gocomet.assignment.TestRunner" time="44.304" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Akanksha Srivastava\OneDrive\Desktop\casekaro-test\target\test-classes;C:\Users\Akanksha Srivastava\OneDrive\Desktop\casekaro-test\target\classes;C:\Users\Akanksha Srivastava\.m2\repository\com\microsoft\playwright\playwright\1.40.0\playwright-1.40.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\com\microsoft\playwright\driver\1.40.0\driver-1.40.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\com\microsoft\playwright\driver-bundle\1.40.0\driver-bundle-1.40.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-java\7.16.1\cucumber-java-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-core\7.16.1\cucumber-core-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-gherkin\7.16.1\cucumber-gherkin-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.16.1\cucumber-gherkin-messages-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\datatable\7.16.1\datatable-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-plugin\7.16.1\cucumber-plugin-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\docstring\7.16.1\docstring-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\html-formatter\21.3.0\html-formatter-21.3.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\junit-xml-formatter\0.3.0\junit-xml-formatter-0.3.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.16.1\cucumber-junit-platform-engine-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite\1.10.0\junit-platform-suite-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite-api\1.10.0\junit-platform-suite-api-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.10.0\junit-platform-suite-engine-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.10.0\junit-platform-suite-commons-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-launcher\1.10.0\junit-platform-launcher-1.10.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11\bin"/>
+    <property name="sun.java.command" value="C:\Users\Akanksha Srivastava\AppData\Local\Temp\surefire17118530753496036278\surefirebooter-20250714205344383_3.jar C:\Users\Akanksha Srivastava\AppData\Local\Temp\surefire17118530753496036278 2025-07-14T20-53-43_676-jvmRun1 surefire-20250714205344383_1tmp surefire_0-20250714205344383_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Akanksha Srivastava\OneDrive\Desktop\casekaro-test\target\test-classes;C:\Users\Akanksha Srivastava\OneDrive\Desktop\casekaro-test\target\classes;C:\Users\Akanksha Srivastava\.m2\repository\com\microsoft\playwright\playwright\1.40.0\playwright-1.40.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\com\microsoft\playwright\driver\1.40.0\driver-1.40.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\com\microsoft\playwright\driver-bundle\1.40.0\driver-bundle-1.40.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-java\7.16.1\cucumber-java-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-core\7.16.1\cucumber-core-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-gherkin\7.16.1\cucumber-gherkin-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.16.1\cucumber-gherkin-messages-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\datatable\7.16.1\datatable-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-plugin\7.16.1\cucumber-plugin-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\docstring\7.16.1\docstring-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\html-formatter\21.3.0\html-formatter-21.3.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\junit-xml-formatter\0.3.0\junit-xml-formatter-0.3.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.16.1\cucumber-junit-platform-engine-7.16.1.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite\1.10.0\junit-platform-suite-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite-api\1.10.0\junit-platform-suite-api-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.10.0\junit-platform-suite-engine-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.10.0\junit-platform-suite-commons-1.10.0.jar;C:\Users\Akanksha Srivastava\.m2\repository\org\junit\platform\junit-platform-launcher\1.10.0\junit-platform-launcher-1.10.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Akanksha Srivastava"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-04-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Akanksha Srivastava\OneDrive\Desktop\casekaro-test"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Akanksha Srivastava\AppData\Local\Temp\surefire17118530753496036278\surefirebooter-20250714205344383_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.27+8-LTS-232"/>
+    <property name="user.name" value="Akanksha Srivastava"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Akanksha Srivastava\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\AKANKS~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.27"/>
+    <property name="user.dir" value="C:\Users\Akanksha Srivastava\OneDrive\Desktop\casekaro-test"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\MinGW\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-21\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\MongoDB\Server\7.0\bin;C:\Program Files\Git\cmd;C:\xampp\php;C:\composer;C:\Program Files\php-8.4.4;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;C:\Program Files\MySQL\MySQL Router 8.0\bin;C:\Program Files\Java\jdk-11\bin;C:\apache-maven-3.9.10-bin\apache-maven-3.9.10\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Akanksha Srivastava\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.4.101-hotspot\bin;C:\Users\Akanksha Srivastava\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3\bin;;C:\Users\Akanksha Srivastava\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\mongosh\;C:\Users\Akanksha Srivastava\.dotnet\tools;C:\Users\Akanksha Srivastava\AppData\Roaming\Composer\vendor\bin;C:\Users\Akanksha Srivastava\AppData\Roaming\npm;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.27+8-LTS-232"/>
+    <property name="java.specification.maintenance.version" value="3"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="Search and scrape Apple iPhone 16 Pro products" classname="CaseKaro Product Search" time="44.109">
+    <system-out><![CDATA[
+Scenario: Search and scrape Apple iPhone 16 Pro products &amp#27;[90m# features/casekaro.feature:3&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32mI launch the browser&amp#27;[0m                             &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.launchBrowser()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mI navigate to the CaseKaro website&amp#27;[0m                &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.navigateToWebsite()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI click on Mobile Covers&amp#27;[0m                           &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.clickMobileCovers()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI search for &amp#27;[0m&amp#27;[32m&amp#27;[1m"Apple"&amp#27;[0m                               &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.searchFor(java.lang.String)&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI should not see banned brands&amp#27;[0m                    &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.validateBannedBrands()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI click on the Apple brand&amp#27;[0m                         &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.clickAppleBrand()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI select iPhone 16 Pro&amp#27;[0m                             &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.selectiPhone16Pro()&amp#27;[0m
+  &amp#27;[32mAnd &amp#27;[0m&amp#27;[32mI apply In Stock filter&amp#27;[0m                            &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.applyInStockFilter()&amp#27;[0m
+✅ Saved results to products.csv
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mI scrape products and save to CSV&amp#27;[0m                 &amp#27;[90m# com.gocomet.assignment.CaseKaroSteps.scrapeAndSaveProducts()&amp#27;[0m
+]]></system-out>
+  </testcase>
+</testsuite>
